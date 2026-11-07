@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Light bright airy stylish apt & safe peaceful stay",
+    "image": "/src/assets/images/room-1.png",
+    "capacity": {
+      "guests": 4,
+      "bedrooms": 2,
+      "beds": 2,
+      "baths": 2
+    },
+    "amenities": ["Wifi", "Air conditioning", "Kitchen"],
+    "cancellationFlexibility": true,
+    "rating": {
+      "score": 4.9,
+      "reviewCount": 20
+    },
+    "price": {
+      "perNight": 34,
+      "total": 167,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Apartment in Lost Panorama",
+    "image": "/src/assets/images/room-2.png",
+    "capacity": {
+      "guests": 4,
+      "bedrooms": 2,
+      "beds": 2,
+      "baths": 2
+    },
+    "amenities": ["Wifi", "Air conditioning", "Kitchen"],
+    "cancellationFlexibility": true,
+    "rating": {
+      "score": 4.8,
+      "reviewCount": 10
+    },
+    "price": {
+      "perNight": 52,
+      "total": 167,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 3,
+    "title": "AR Lounge & Pool (r&r + b&b)",
+    "image": "/src/assets/images/room-3.png",
+    "capacity": {
+      "guests": 4,
+      "bedrooms": 2,
+      "beds": 2,
+      "baths": 2
+    },
+    "amenities": ["Wifi", "Air conditioning", "Kitchen"],
+    "cancellationFlexibility": true,
+    "rating": {
+      "score": 4.9,
+      "reviewCount": 25
+    },
+    "price": {
+      "perNight": 44,
+      "total": 167,
+      "currency": "USD"
+    }
+  }
+]

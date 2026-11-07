@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Cox's Bazar",
+    "image": "/images/coxsbazar.jpg",
+    "description": "Cox's Bazar is a city, fishing port, tourism centre and district headquarters in southeastern Bangladesh. It is famous mostly for its long natural sandy beach, and it ..."
+  },
+  {
+    "id": 2,
+    "name": "Sreemangal",
+    "image": "/images/sreemangal.jpg",
+    "description": "Sreemangal is known as the tea capital of Bangladesh ..."
+  },
+  {
+    "id": 3,
+    "name": "Sundarbans",
+    "image": "/images/sundarbans.jpg",
+    "description": "The Sundarbans is the largest mangrove forest in the world ..."
+  }
+]

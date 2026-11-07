@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+  --font-bebas-neue: "Bebas Neue", sans-serif;
+}
+
+@layer base {
+  body {
+    font-family: "Montserrat", sans-serif;
+  }
+}
+
+@layer components {
+  /* .menu a {
+
+    }
+  .menu a.active {
+    --menu-active-fg: rgb(255, 227, 68);
+    --menu-active-bg: transparent;
+    font-weight: 700;
+  } */
+}
